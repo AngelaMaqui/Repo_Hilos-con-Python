@@ -1,5 +1,3 @@
-# Práctica: Hilos, Concurrencia y Sincronización en Python
-
 ## Interpretación del Comportamiento
 
 Se mostro que hubo un cmabion constante entre la ejecuciones realizadas a la vez que ningun trabajador interfirio con otro y a su vez causar un desequilibrio entre documentos resaltando tambien la aleatoriedad de cada docuemnto realizado por trabajador y que ninguno repitio documentos
